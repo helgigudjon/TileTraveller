@@ -57,4 +57,4 @@ while position != 3.1:
         att = "(S)outh or (W)est."
 print("Victory!")
 
-#GitHub --> https://github.com/
+#GitHub --> https://github.com/helgigudjon/TileTraveller
